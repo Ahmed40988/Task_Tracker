@@ -129,8 +129,8 @@ namespace Task_Tracker
             }
             else
             {
-                Console.WriteLine("Task is not found !.");
-                Console.WriteLine("Task is not found !.");
+                Console.WriteLine("Sorry Task is not found !.");
+               
             }
         }
     }
