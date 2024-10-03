@@ -130,6 +130,7 @@ namespace Task_Tracker
             else
             {
                 Console.WriteLine("Sorry Task is not found !.");
+                Console.WriteLine("Learning Git!.");
                
             }
         }
