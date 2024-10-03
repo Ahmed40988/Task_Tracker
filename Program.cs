@@ -131,6 +131,7 @@ namespace Task_Tracker
             {
                 Console.WriteLine("Sorry Task is not found !.");
                 Console.WriteLine("Learning Git!.");
+                      Console.WriteLine("git pull.");
                
             }
         }
